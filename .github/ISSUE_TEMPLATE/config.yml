@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions & ideas / 질문·제안
+    url: https://marketplace.visualstudio.com/items?itemName=experlab.100doo&ssr=false#qna
+    about: Ask in the VS Code Marketplace Q&A. / VS Code 마켓플레이스 Q&A에 남겨 주세요.
+  - name: Product page / 소개 페이지
+    url: https://ai.experlab.com/en/agent-orchestrator.html
+    about: Features, install, and requirements. / 기능·설치·요구 사항
